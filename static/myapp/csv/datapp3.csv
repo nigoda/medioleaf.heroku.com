@@ -1,0 +1,102 @@
+id,medicinal,species,ph,temperature(F)
+1,0,Aconite,8,75
+2,0,Ageratina-altissima,5.4,70
+3,1,Ajwain,6.5,79
+4,0,American Ivy,5.1,75
+5,1,Amla,6.5,79
+6,1,Amrutha balli,6.9,79
+7,0,Angels trumpet,5.9,35
+8,0,Arum lilly ,5.9,75
+9,1,Ashwaganda,6.5,79
+10,0,Astropa Belladona,4.5,75
+11,1,Azadirachta indica,6.4,50
+12,1,Basil,6.8,50
+13,1,Bayleaf,6,50
+14,1,Bhringraj,6.9,79
+15,1,Bhumyamalaki,6.5,79
+16,1,Brahmi,6.9,79
+17,1,Carica papaya,6.5,75
+18,0,Castor oil ,5,105
+19,1,Catmint,6.5,50
+20,1,Catnip,6.5,50
+21,1,Cayenne pepper,6.8,50
+22,1,Centella asiatica,6.9,79
+23,0,Cicuta,5.4,75
+24,1,Cilantro,6.5,50
+25,1,Coriandrum sativum,6.5,50
+26,1,Curcuma longa,6.9,80
+27,1,Curry leaves,6,50
+28,0,Daphne,5.5,75
+29,1,Doddapatre,6.5,79
+30,1,Drumstick,6.5,75
+31,1,Eclipta prostrata,6.9,79
+32,0,English yew,5.5,75
+33,0,Erythrina Speciosa,2,75
+34,1,Ginger,6.5,80
+35,1,Guava,6.9,79
+36,1,Gymnema,6.9,79
+37,1,Gymnema sylvestre,6.9,79
+38,1,Haldi,6.9,80
+39,1,Henna,6.9,79
+40,1,Hibiscus ,6.8,79
+41,1,Hibiscus sabdariffa,6.8,79
+42,0,Hydrangea,5.5,75
+43,0,Hydrangea macrophylla,5.5,75
+44,1,Indian gooseberry,6.5,79
+45,1,Indian lilac,6.4,50
+46,1,Keela nelli,6.5,79
+47,1,Laurus nobilis,6,50
+48,1,Lawsonia inermis,6.9,79
+49,1,Lemon ,6.5,75
+50,1,Lemon balm,6.5,50
+51,1,Mangifera indica,6.9,75
+52,1,Mango,6.9,75
+53,1,Melissa officinalis,6.5,50
+54,1,Mentha piperita L.,6.8,50
+55,1,Methi,6.1,50
+56,0,Monkshood,8,75
+57,1,Murraya koenigii,6,50
+58,1,Neem,6.4,50
+59,1,Nelanelli,6.5,79
+60,1,Nepeta cataria,6.5,50
+61,0,Nerium oleander,5,75
+62,1,Nut grass,6.9,79
+63,1,Ocimum basilicum,6.8,50
+64,1,Ocimum tenuiflorum,6.8,50
+65,0,Oleander,5,75
+66,1,Papaya,6.5,75
+67,1,Parsley,6.9,75
+68,1,Peppermint,6.8,50
+69,1,Petroselinum crispum,6.9,75
+70,1,Phyllanthus amarus,6.5,79
+71,1,Phyllanthus emblica,6.5,79
+72,0,Poison ivy,8,75
+73,1,Pomogranate,6.7,75
+74,1,Psidium guajava,6.9,79
+75,1,Punica granatum,6.7,75
+76,1,Reetha,6.5,79
+77,0,Ricinus ,5,70
+78,0,Ricinus communis,5,105
+79,0,Rosarypea,5.9,70
+80,1,Sage,6.2,50
+81,1,Salvia officinalis,6.2,50
+82,1,Sambar balli,6.5,79
+83,1,Sambrani,6.5,79
+84,1,Sapindus Mukorossi,6.5,79
+85,1,Senegalia rugata,6.5,79
+86,1,Shikakai,6.5,79
+87,1,Soap berry,6.5,79
+88,1,Thyme,6.1,50
+89,1,Thymus vulgaris,6.1,50
+90,0,Tobacco,5.8,75
+91,1,Trachyspermum ammi,6.5,79
+92,1,Trigonella,6.1,50
+93,1,Tulsi,6.8,50
+94,1,Turmeric ,6.9,80
+95,0,Virginia creeper,5.1,75
+96,1,Wash nut,6.5,79
+97,0,Water hemlock,5.4,75
+98,0,White snakeroot,5.4,70
+99,1,Withania somnifera,6.5,79
+100,0,Wolfsbane,8,75
+101,1,Zingiber,6.5,80

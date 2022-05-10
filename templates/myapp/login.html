@@ -1,0 +1,24 @@
+{% extends 'myapp/base.html' %}
+
+  {% block body_block %}
+
+  <div class="mt-4 p-10 text-white fw-bold rounded">
+    <h1 class="text-white fw-bold">Please Login</h1>
+    <form class="" action="{% url 'myapp:user_login' %}" method="POST">
+      {% csrf_token %}
+
+      <br>
+      <label for="username" class="form-label">UserName:</label>
+      <input type="text" class="form-control" name="username" placeholder="Enter UserName">
+      <br>
+      <label for="password" class="form-label">Password:</label>
+      <input type="password" class="form-control" name="password" placeholder="*********">
+
+      <br>
+      <input type="submit" class="btn btn-success" name="" value="Login">
+    </form>
+  </div>
+
+
+
+  {% endblock %}
